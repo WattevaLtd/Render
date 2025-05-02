@@ -1,0 +1,2 @@
+git remote add origin https://github.com/yourusername/nocodb-render-webhook.git
+git push -u origin main
